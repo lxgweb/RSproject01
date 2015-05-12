@@ -1,0 +1,119 @@
+/*用户登录*/
+.userlogin{
+width: 100%;
+    height: 41px;
+    background:url("../images/userlogin.png");
+    position: relative;
+}
+.userlogin_text1{
+    font-size: 19px;
+    font-family: "微软雅黑";
+    font-weight: bold;
+    /*font-style: italic;*/
+    color: #083487;
+    position: absolute;
+    left: 140px;
+    top: 12px;
+}
+.userlogin_text2{
+    font-size: 14px;
+    font-family: "宋体";
+    position: absolute;
+    left: 228px;
+    top: 17px;
+}
+.userlogin_text3{
+    font-size: 14px;
+    font-family: "宋体";
+    position: absolute;
+    left: 403px;
+    top: 17px;
+}
+.userlogin_text4{
+    width: 47px;
+    height: 21px;
+    background: url("../images/userlogin_botton.png") 0 0;
+    font-size: 12px;
+    font-family: "宋体";
+    position: absolute;
+    left: 555px;
+    top: 12px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 20px;
+}
+.userlogin_text4:hover{
+    background:url("../images/userlogin_botton.png") 0 -21px;
+}
+.userlogin_text5{
+    width: 47px;
+    height: 21px;
+    background: url("../images/userlogin_botton.png") 0 0;
+    font-size: 12px;
+    font-family: "宋体";
+    position: absolute;
+    left: 618px;
+    top: 12px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 20px;
+}
+.userlogin_text5:hover{
+    background:url("../images/userlogin_botton.png") 0 -21px;
+}
+.userlogin_text6{
+    font-size: 19px;
+    font-family: "微软雅黑";
+    font-weight: bold;
+    /*font-style: italic;*/
+    color: #083487;
+    position: absolute;
+    left: 800px;
+    top: 12px;
+}
+.userlogin_text7{
+    font-size: 14px;
+    font-family: "宋体";
+    position: absolute;
+    left: 885px;
+    top: 17px;
+}
+.userlogin_text8{
+    width: 47px;
+    height: 21px;
+    background: url("../images/userlogin_botton.png") 0 0;
+    font-size: 12px;
+    font-family: "宋体";
+    position: absolute;
+    left: 1060px;
+    top: 12px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 20px;
+}
+.userlogin_text8:hover{
+    background:url("../images/userlogin_botton.png") 0 -21px;
+}
+.userlogin_input1{
+    width: 108px;
+    height: 20px;
+    position: absolute;
+    left: 273px;
+    top: 11px;
+}
+.userlogin_input2{
+    width: 108px;
+    height: 20px;
+    position: absolute;
+    left: 435px;
+    top: 11px;
+}
+.userlogin_input3{
+    width: 108px;
+    height: 20px;
+    position: absolute;
+    left: 933px;
+    top: 11px;
+}
+/*用户登录end*/
+
