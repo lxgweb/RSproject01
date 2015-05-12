@@ -1,5 +1,79 @@
+/*主页 top*/
 .ind_top_bg{
     width: 100%;
-    height: 306px;
+    height: 305px;
     background-image: url("../images/indextopbg.png");
+    position: relative;
+}
+.ind_top_bud{
+    width: 1000px;
+    height: 305px;
+    background-image: url("../images/indextopbg_bud.png");
+    position: absolute;
+    top: 0;
+    left:175px ;
+}
+.ind_top_text1{
+    font-size: 15px;
+    color: #ffffff;
+    font-family: "宋体";
+    padding: 0 13px;
+    position: absolute;
+    /*border: 1px solid #ffffff;*/
+    top: 19px;
+    left: 777px;
+}
+.ind_top_text2{
+    font-size: 16px;
+    color: #ffffff;
+    font-family:Times New Roman;
+    padding: 0 13px;
+    border-left: 1px solid #ffffff;
+    position: absolute;
+    top: 18px;
+    left: 850px;
+}
+.ind_top_text3{
+    font-size: 16px;
+    color: #ffffff;
+    font-family:Times New Roman;
+    padding: 0 13px;
+    border-left: 1px solid #ffffff;
+    position: absolute;
+    top: 18px;
+    left: 933px;
+}
+/*主页 top end*/
+
+/*主页new*/
+.ind_new{
+    width: 1000px;
+    height: 327px;
+    border: 1px solid silver;
+    margin-left: 175px;
+    position:relative;
+    top:54px;
+}
+.imgnew{
+    width: 400px;
+    height: 305px;
+    position: relative;
+    left: 6px;
+    top: 11px;
+}
+.imgnew_text{
+    width: 398px;
+    height: 39px;
+    background:#083588;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border: 1px solid #c6e9fa;
+    border-top: none;
+    font-family: "宋体";
+    font-size: 15px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
 }
