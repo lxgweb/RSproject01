@@ -714,4 +714,77 @@ color: #E4ECF9;
     top: 460px;
     left: 287px;
 }
+.chatusers{
+    width: 180px;
+    height: 126px;
+    overflow: scroll;
+    overflow-x: hidden;
+    position: absolute;
+    top: 135px;
+    left: 800px;
+    /*border: 1px solid #000000;*/
+}
+.chatusers_box{
+    width: 164px;
+    height: 63px;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.chatusers_img{
 
+}
+.chatusers_text{
+    font-weight: bold;
+    color: #083487;
+    position: absolute;
+    top: 16px;
+    left: 56px;
+    /*border: 1px solid #000000;*/
+}
+.chatusers_text2{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 5px;
+    position: relative;
+    top: -10px;
+}
+
+.onlineuser{
+    width: 180px;
+    height: 368px;
+    overflow: scroll;
+    overflow-x: hidden;
+    position: absolute;
+    left: 801px;
+    top: 296px;
+    /*border: 1px solid #000000;*/
+}
+.onlineuserul{
+    padding: 0;
+    margin: 0;
+    margin-top: 6px;
+    list-style: none;
+}
+.onlineuserul li{
+    width: 163px;
+    height: 30px;
+    line-height:30px ;
+    color: #083487;
+    font-size: 12px;
+}
+.onlineuserulli1{
+    background:#e9f2f8;
+}
+.onlineuserulli2{
+   background: #d3e5f2;
+}
+.onlineuseres_img{
+   margin-left: 15px;
+    margin-top: 5px;
+}
+.onlineuseres{
+   position: relative;
+    left: 10px;
+    top: -6px;
+}
