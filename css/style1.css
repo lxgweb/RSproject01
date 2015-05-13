@@ -326,6 +326,7 @@ float: right;
     height: 40px;
     border-bottom: 1px solid #a1dbff;
     list-style-image: url("../images/narrow.png");
+    *padding: 2px 0;
     line-height: 40px;
     color: black;
     list-style-position: inside;
@@ -484,6 +485,7 @@ margin: 20px 0;
     display: inline-block;
     /*border: 1px solid red;*/
     float: right;
+_margin-right: -100px;
     line-height: 30px;
 }
 /*end zhuanjiashujuku*/
@@ -654,11 +656,20 @@ text-align: right;
     color: #A1110B;
     margin-left: 30px;
 }
+.right .right_banner .chakanliuyan{
+    *color: #000000;
+}
+.right .right_banner .woyaoliuyan{
+  *display: inline-block;
+    *margin-top: 5px;
+    *margin-right: 50px;
+}
 .selcetwidth{
     width: 150px;
     height: 20px;
     border: 1px solid #AFAFAF;
     margin-top: 20px;
+
 }
 .selcetwidth:focus{
 
@@ -676,6 +687,7 @@ text-align: right;
     width: 325px;
     height: 30px;
     border: 1px solid #AFAFAF;
+    _margin-top: 15px;
 
 }
 .textareawidth{
@@ -683,6 +695,8 @@ text-align: right;
     height: 110px;
     border: 1px solid #AFAFAF;
     margin-top: 10px;
+    _margin-top: 15px;
+
 
 }
 .buttonliuyan{
@@ -702,6 +716,8 @@ text-align: right;
 .buttonliuyan1{
     background-color: #A2A2A2;
     margin-left: 20px;
+    _margin-top: 20px;
+
 }
 .neirong{
     /*border: 1px solid red;*/
@@ -740,6 +756,8 @@ text-align: right;
     padding: 30px 0;
     font-size: 12px;
     border-bottom: 3px dashed grey;
+    *border-bottom: 3px dashed #000000;
+
     margin-top: 10px;
 
 }
@@ -782,4 +800,22 @@ text-align: right;
 }
 .clear{
     clear: both;
+}
+.keyanxiangmuul01 .li1_div1{
+    *display: inline-block;
+    *vertical-align: top;
+   *margin-top: -40px;
+}
+.right_baseinfo .goback{
+    *margin-top: -40px;
+    *display: inline-block;
+}
+.right_table01 {
+ *height: 400px;
+}
+.keyanxiangmuul01 .li2 .li1_div3{
+    *margin-right: 230px;
+}
+.right .table01_td03{
+    font-size: 18px;
 }
