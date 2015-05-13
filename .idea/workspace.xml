@@ -27,28 +27,8 @@
       <file leaf-file-name="style1.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6795953" vertical-offset="14265" max-vertical-offset="15010">
-              <caret line="772" column="14" selection-start-line="772" selection-start-column="14" selection-end-line="772" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="keyanxiangmuxiangxi.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keyanxiangmuxiangxi.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.642858" vertical-offset="3767" max-vertical-offset="5548">
-              <caret line="211" column="63" selection-start-line="211" selection-start-column="50" selection-end-line="211" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kycg2keyanlunwen.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kycg2keyanlunwen.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.071428" vertical-offset="4546" max-vertical-offset="5187">
-              <caret line="260" column="9" selection-start-line="5" selection-start-column="3" selection-end-line="267" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.6795953" vertical-offset="8223" max-vertical-offset="8987">
+              <caret line="454" column="14" selection-start-line="454" selection-start-column="14" selection-end-line="454" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -318,11 +298,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/goback.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.678571" vertical-offset="326" max-vertical-offset="1045">
@@ -395,66 +370,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kycg1keyanxiangmu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.178572" vertical-offset="2650" max-vertical-offset="4902">
-          <caret line="153" column="51" selection-start-line="153" selection-start-column="51" selection-end-line="153" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chakanliuyan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-48.607143" vertical-offset="2838" max-vertical-offset="5130">
-          <caret line="221" column="14" selection-start-line="221" selection-start-column="14" selection-end-line="221" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zxjl3yjfkwoyaoliuyan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4265487" vertical-offset="2785" max-vertical-offset="4826">
-          <caret line="189" column="24" selection-start-line="189" selection-start-column="24" selection-end-line="189" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kycg3keyanzhuzuo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26902655" vertical-offset="2755" max-vertical-offset="4750">
-          <caret line="153" column="41" selection-start-line="153" selection-start-column="41" selection-end-line="153" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyanzhuzuoxiangxi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.821429" vertical-offset="2944" max-vertical-offset="5092">
-          <caret line="165" column="49" selection-start-line="165" selection-start-column="49" selection-end-line="165" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kycg2keyanlunwen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.071428" vertical-offset="4546" max-vertical-offset="5187">
-          <caret line="260" column="9" selection-start-line="5" selection-start-column="3" selection-end-line="267" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyanxiangmuxiangxi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.642858" vertical-offset="3767" max-vertical-offset="5548">
-          <caret line="211" column="63" selection-start-line="211" selection-start-column="50" selection-end-line="211" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6795953" vertical-offset="14265" max-vertical-offset="15010">
-          <caret line="772" column="14" selection-start-line="772" selection-start-column="14" selection-end-line="772" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.6795953" vertical-offset="8223" max-vertical-offset="8987">
+          <caret line="454" column="14" selection-start-line="454" selection-start-column="14" selection-end-line="454" selection-end-column="14" />
           <folding />
         </state>
       </provider>
