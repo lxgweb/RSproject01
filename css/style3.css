@@ -57,6 +57,7 @@ body{
     margin-left: 175px;
     position:relative;
     top:9px;
+    z-index: -1;
 }
 .imgnew{
     width: 400px;
@@ -400,8 +401,8 @@ body{
 /*footer前的框架*/
 .secondfooterbox{
     width: 1000px;
-    height: 600px;
-    border: 1px solid #000000;
+    height: 590px;
+    /*border: 1px solid #000000;*/
     position: relative;
     margin-left: 175px;
     top:7px;
@@ -472,7 +473,7 @@ line-height: 25px;
 .xiqi_textul li{
     _padding: 5px 0;
 }
-
+/*<政策>*/
 .zc{
     width: 567px;
     height: 284px;
@@ -481,3 +482,151 @@ line-height: 25px;
     background: url("../images/indzl_bg_.png");
     top:290px;
 }
+/*专家*/
+.zj{
+    width: 420px;
+    height: 284px;
+    position: absolute;
+    border:1px solid #738eba;
+    background: url("../images/indzl_bg_.png");
+    left: 578px;
+}
+.zj_more{
+   color: #083588;
+    font-size: 14px;
+    position: absolute;
+    left: 364px;
+    top: 19px;
+}
+.zj_title{
+    width: 187px;
+    height: 28px;
+    border: 1px solid #cacbcd;
+    border-bottom:1px solid #ea0000;
+    position: absolute;
+    background: url("../images/zj_bg.png");
+    left: 13px;
+    top: 54px;
+    color: #ffffff;
+    line-height: 30px;
+    font-weight: bold;
+}
+.zj_title2{
+    width: 187px;
+    height: 28px;
+    border: 1px solid #cacbcd;
+    border-bottom:1px solid #ea0000;
+    position: absolute;
+    background: url("../images/zj_bg.png");
+    left: 216px;
+    top: 54px;
+    color: #ffffff;
+    line-height: 30px;
+    font-weight: bold;
+}
+.zj_text1{
+    margin-left:18px ;
+}
+.zj_text{
+    position: absolute;
+    left: 13px;
+    top: 84px;
+    height: 190px;
+    width: 187px;
+    border: 1px solid #cacbcd;
+    border-top:none ;
+    border-bottom:none ;
+    background: #ffffff;
+}
+.zj_text2{
+    position: absolute;
+    left: 216px;
+    top: 84px;
+    height: 190px;
+    width: 187px;
+    border: 1px solid #cacbcd;
+    border-top:none ;
+    border-bottom:none ;
+    background: #ffffff;
+}
+.zj_textul{
+    list-style:none;
+    line-height: 25px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 5px;
+    left: 18px;
+}
+.zj_textul li{
+    _padding: 5px 0;
+}
+/*科研*/
+.ky{
+    width: 420px;
+    height: 284px;
+    position: absolute;
+    border:1px solid #738eba;
+    background: url("../images/indzl_bg_.png");
+    left: 578px;
+    top:290px;
+}
+.ky_ul{
+    position: absolute;
+    left: 14px;
+    top: 54px;
+    height: 29px;
+    width: 391px;
+    background:#083588;
+    border-bottom:1px solid red ;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.ky_ul li{
+    float: left;
+    height: 34px;
+    width: 108px;
+    margin-top: -3px;
+    font-family: "宋体";
+    color:#ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 35px;
+    position: relative;
+}
+.ky_ulli1{
+    margin-left: 8px;
+}
+.ky_ulli2{
+    margin-left: 5px;
+}
+.ky_ul li:hover{
+    background: url("../images/ky_bg.png");
+    color: #ffffff;
+}
+.ky_text{
+    position: absolute;
+    left: 14px;
+    top: 84px;
+    height: 190px;
+    width: 389px;
+    border: 1px solid #cacbcd;
+    border-top:none ;
+    border-bottom:none ;
+    background: #ffffff;
+}
+.ky_textul{
+    list-style:none;
+    line-height: 25px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 5px;
+    left: 18px;
+}
+.ky_textul li{
+    _padding: 5px 0;
+}
+/*footer前的框架end*/

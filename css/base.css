@@ -161,7 +161,8 @@ width: 100%;
     color: #ffffff;
     text-align: center;
     line-height: 45px;
-    border-right: 1px solid rgba(144, 230, 255, 0.45);
+    margin-left: 1px;
+    /*border-right: 1px solid rgba(144, 230, 255, 0.45);*/
 }
 .menu_ul li:hover{
     background-image:url("../images/menu_ulbg.png") ;
@@ -173,7 +174,7 @@ width: 100%;
 .menu_ulli{
      position: absolute;
      top: 0;
-     left: 900px;
+     left: 908px;
  }
 /*中心概况*/
 .secondmenu_ul{
@@ -368,7 +369,7 @@ width: 100%;
     margin: 0;
     position: absolute;
     top:45px;
-    left: -390px;
+    left: -395px;
     display: none;
     z-index: 2;
     list-style: none;
@@ -390,6 +391,46 @@ width: 100%;
 }
 .menu_ulli:hover .secondmenu_zxul{
     display: block;
+}
+.line1{
+    position: absolute;
+    left: 275px;
+}
+.line2{
+    position: absolute;
+    left: 376px;
+}
+.line3{
+    position: absolute;
+    left: 477px;
+}
+.line4{
+    position: absolute;
+    left: 578px;
+}
+.line5{
+    position: absolute;
+    left: 679px;
+}
+.line6{
+    position: absolute;
+    left: 780px;
+}
+.line7{
+    position: absolute;
+    left: 881px;
+}
+.line8{
+    position: absolute;
+    left: 982px;
+}
+.line9{
+    position: absolute;
+    left: 1083px;
+}
+.line10{
+    position: absolute;
+    left: 1184px;
 }
 /*菜单menu end*/
 /*整个hander*/
