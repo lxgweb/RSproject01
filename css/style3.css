@@ -190,6 +190,7 @@ body{
     margin-left: 8px;
     line-height: 30px;
     color: #083588;
+    _padding: 7px 3px 7px 0;
 }
 .centernew_date{
     font-family: Times New Roman;

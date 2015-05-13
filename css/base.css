@@ -1,3 +1,4 @@
+/*整个hander*/
 /*用户登录*/
 .userlogin{
 width: 100%;
@@ -117,6 +118,22 @@ width: 100%;
 }
 /*用户登录end*/
 
+/*通用的top*/
+.tytop_bg{
+    width: 100%;
+    height: 144px;
+    background-image: url("../images/tytop_bg.png");
+    position: relative;
+}
+.tytop_bud{
+    width: 1000px;
+    height: 144px;
+    background-image: url("../images/tytop_bud.png");
+    position: absolute;
+    top: 0;
+    left:175px ;
+}
+
 /*菜单menu*/
 .menubg{
     width: 100%;
@@ -127,10 +144,12 @@ width: 100%;
 }
 .menu_ul{
     position: absolute;
+    width: 1200px;
     padding: 0;
     margin: 0;
     left: 175px;
     list-style: none;
+    /*border: 1px solid #000000;*/
 }
 .menu_ul li{
     /*background: green;*/
@@ -143,6 +162,7 @@ width: 100%;
     color: #ffffff;
     text-align: center;
     line-height: 45px;
+    border-right: 1px solid rgba(144, 230, 255, 0.45);
 }
 .menu_ul li:hover{
     background-image:url("../images/menu_ulbg.png") ;
@@ -151,25 +171,24 @@ width: 100%;
 .menu_ul li:hover .secondmenu_ul{
     display: block;
 }
+.menu_ulli{
+     position: absolute;
+     top: 0;
+     left: 900px;
+ }
+/*中心概况*/
 .secondmenu_ul{
-    position: absolute;
-    padding: 0;
-    margin: 0;
-    left: 175px;
-    list-style: none;
-}
-.secondmenu_ul{
-    font-family: "宋体";
-    font-size: 15px;
-    padding: 0;
-    margin: 0;
-    position: absolute;
-    top:45px;
-    left: 100px;
-    display: none;
-    z-index: 2;
-    /*list-style: url("../images/narrow2.png");*/
-}
+     font-family: "宋体";
+     font-size: 15px;
+     padding: 0;
+     margin: 0;
+     position: absolute;
+     top:45px;
+     left: 101px;
+     display: none;
+     z-index: 2;
+     list-style: none;
+ }
 .secondmenu_ul li{
     height: 34px;
     width: 100px;
@@ -178,10 +197,200 @@ width: 100%;
     padding: 0 21px 0 0;
     line-height: 35px;
     color: #073285;
+    border-right:1px solid #aa2b2b;;
 }
 .secondmenu_ul li:hover{
     background-color: #aa2b2b;
     background-image: none;
     color: #ffffff;
 }
-/*主页 top end*/
+/*新闻中心*/
+.secondmenu_xwul{
+    font-family: "宋体";
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top:45px;
+    left: 202px;
+    display: none;
+    z-index: 2;
+    list-style: none;
+}
+.secondmenu_xwul li{
+    height: 34px;
+    width: 100px;
+    float: left;
+    background-color: #a1dbff;
+    padding: 0 21px 0 0;
+    line-height: 35px;
+    color: #073285;
+    border-right:1px solid #aa2b2b;;
+}
+.secondmenu_xwul li:hover{
+    background-color: #aa2b2b;
+    background-image: none;
+    color: #ffffff;
+}
+.menu_ul li:hover .secondmenu_xwul{
+    display: block;
+}
+/*战略合作*/
+.secondmenu_zlul{
+    font-family: "宋体";
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top:45px;
+    left: 120px;
+    display: none;
+    z-index: 2;
+    list-style: none;
+}
+.secondmenu_zlul li{
+    height: 34px;
+    width: 100px;
+    float: left;
+    background-color: #a1dbff;
+    padding: 0 21px 0 0;
+    line-height: 35px;
+    color: #073285;
+    border-right:1px solid #aa2b2b;;
+}
+.secondmenu_zlul li:hover{
+    background-color: #aa2b2b;
+    background-image: none;
+    color: #ffffff;
+}
+.menu_ul li:hover .secondmenu_zlul{
+    display: block;
+}
+/*信息*/
+.secondmenu_xxul{
+    font-family: "宋体";
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top:45px;
+    left: 505px;
+    display: none;
+    z-index: 2;
+    list-style: none;
+}
+.secondmenu_xxul li{
+    height: 34px;
+    width: 100px;
+    float: left;
+    background-color: #a1dbff;
+    padding: 0 21px 0 0;
+    line-height: 35px;
+    color: #073285;
+    border-right:1px solid #aa2b2b;;
+}
+.secondmenu_xxul li:hover{
+    background-color: #aa2b2b;
+    background-image: none;
+    color: #ffffff;
+}
+.menu_ul li:hover .secondmenu_xxul{
+    display: block;
+}
+/*专家*/
+.secondmenu_zjul{
+    font-family: "宋体";
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top:45px;
+    left: 606px;
+    display: none;
+    z-index: 2;
+    list-style: none;
+}
+.secondmenu_zjul li{
+    height: 34px;
+    width: 100px;
+    float: left;
+    background-color: #a1dbff;
+    padding: 0 21px 0 0;
+    line-height: 35px;
+    color: #073285;
+    border-right:1px solid #aa2b2b;;
+}
+.secondmenu_zjul li:hover{
+    background-color: #aa2b2b;
+    background-image: none;
+    color: #ffffff;
+}
+.menu_ul li:hover .secondmenu_zjul{
+    display: block;
+}
+
+/*科研*/
+.secondmenu_kyul{
+    font-family: "宋体";
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top:45px;
+    left: 586px;
+    display: none;
+    z-index: 2;
+    list-style: none;
+}
+.secondmenu_kyul li{
+    height: 34px;
+    width: 100px;
+    float: left;
+    background-color: #a1dbff;
+    padding: 0 21px 0 0;
+    line-height: 35px;
+    color: #073285;
+    border-right:1px solid #aa2b2b;;
+}
+.secondmenu_kyul li:hover{
+    background-color: #aa2b2b;
+    background-image: none;
+    color: #ffffff;
+}
+.menu_ul li:hover .secondmenu_kyul{
+    display: block;
+}
+
+/*在线*/
+.secondmenu_zxul{
+    font-family: "宋体";
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top:45px;
+    left: -390px;
+    display: none;
+    z-index: 2;
+    list-style: none;
+}
+.secondmenu_zxul li{
+    height: 34px;
+    width: 100px;
+    float: left;
+    background-color: #a1dbff;
+    padding: 0 21px 0 0;
+    line-height: 35px;
+    color: #073285;
+    border-right:1px solid #aa2b2b;;
+}
+.secondmenu_zxul li:hover{
+    background-color: #aa2b2b;
+    background-image: none;
+    color: #ffffff;
+}
+.menu_ulli:hover .secondmenu_zxul{
+    display: block;
+}
+/*菜单menu end*/
+/*整个hander*/
