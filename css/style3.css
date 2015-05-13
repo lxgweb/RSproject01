@@ -364,3 +364,46 @@ body{
 .indzl_ul li:hover{
     background: url("../images/indzz_ulbg2.png");
 }
+.ind_zltextbox1{
+    width: 348px;
+    height: 220px;
+    border: 1px solid #cacbcd;
+    position: absolute;
+    left: 230px;
+    top: 50px;
+    border-bottom:none ;
+    background: #ffffff;
+}
+.ind_zltextbox2{
+    width: 348px;
+    height: 220px;
+    border: 1px solid #cacbcd;
+    border-bottom:none ;
+    position: absolute;
+    left: 600px;
+    top: 50px;
+    background: #ffffff;
+}
+.ind_zlul{
+    list-style: none;
+    color:#083588;
+    line-height: 25px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 35px;
+    left: 15px;
+}
+/*footer前的框架*/
+.secondfooterbox{
+    width: 1000px;
+    height: 600px;
+    border: 1px solid #000000;
+    position: relative;
+    margin-left: 175px;
+    top:7px;
+}
+.xiqi{
+    width: 567px;
+    h
+}
