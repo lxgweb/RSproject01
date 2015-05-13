@@ -70,8 +70,8 @@ body{
     height: 39px;
     background:#083588;
     position: absolute;
-    bottom: 0;
-    left: 0;
+    bottom: 11px;
+    left: 6px;
     border: 1px solid #c6e9fa;
     border-top: none;
     font-family: "宋体";
@@ -132,7 +132,7 @@ body{
 .centernew_ul{
     position: absolute;
     left: 420px;
-    top: 135px;
+    top: 128px;
     height: 29px;
     width: 575px;
     background-image: url("../images/cennew_bg.png");
@@ -176,7 +176,7 @@ body{
 .centernew_ul2{
     position: absolute;
     left: 420px;
-    top: 165px;
+    top: 157px;
     height: 160px;
     width: 575px;
     background-color: #e9ecee;
@@ -188,7 +188,7 @@ body{
     width: 555px;
     border-bottom: 1px solid #ffffff;
     margin-left: 8px;
-    line-height: 30px;
+    line-height: 29px;
     color: #083588;
     _padding: 7px 3px 7px 0;
 }
@@ -196,4 +196,171 @@ body{
     font-family: Times New Roman;
     font-size: 13px;
     color: #3aa3d9;
+}
+/*网站开通图片*/
+.openimg{
+    margin-left:175px ;
+    margin-top: 16px;
+}
+
+/*信息资源*/
+.ind_xx{
+    width: 998px;
+    height: 221px;
+    background: url("../images/ind_xxbg.png");
+    border: 1px solid #738eba;
+    margin-top: 6px;
+    margin-left: 175px;
+    position: relative;
+}
+.ind_xxtext1{
+    font-family: "微软雅黑";
+    font-size: 20px;
+    font-weight: bold;
+    color: #083588;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+.ind_xxtext2{
+    font-family: Times New Roman;
+    font-size: 22px;
+    color: #9297A3;
+    position: absolute;
+    top: 13px;
+    left: 130px;
+}
+.ind_xxtextbox1{
+     width: 476px;
+     height: 165px;
+     border: 1px solid #cacbcd;
+     position: absolute;
+     left: 20px;
+     top: 50px;
+    border-bottom:none ;
+    background: #ffffff;
+ }
+.ind_xxtextbox2{
+    width: 476px;
+    height: 165px;
+    border: 1px solid #cacbcd;
+    border-bottom:none ;
+    position: absolute;
+    left: 507px;
+    top: 50px;
+    background: #ffffff;
+}
+.bluetitle{
+    background: url("../images/bluetitleimg.png");
+    width: 159px;
+    height: 30px;
+    position: absolute;
+    left: 6px;
+    top: -6px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+}
+.eyul1{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    list-style: none;
+    color:#083588;
+  top: 35px;
+    left: 30px;
+    line-height: 30px;
+}
+.eyul1 li{
+    _padding: 5px 0;
+}
+.eyul2{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    list-style: none;
+    color:#083588;
+    top: 35px;
+    left: 233px;
+    line-height: 30px;
+}
+.eyul2 li{
+    _padding: 5px 0;
+}
+
+.eytext1{
+    position: absolute;
+    font-weight: bold;
+    top:42px;
+    left: 32px;
+}
+.eytext2{
+    position: absolute;
+    color:#083588;
+    top:72px;
+    left: 32px;
+}
+.eytext3{
+    position: absolute;
+    font-weight: bold;
+    top:102px;
+    left: 32px;
+}
+.eytext4{
+    position: absolute;
+    color:#083588;
+    top:132px;
+    left: 32px;
+}
+.eytext5{
+    position: absolute;
+    color:#083588;
+    top:132px;
+    left: 144px;
+}
+.eytext6{
+    position: absolute;
+    font-weight: bold;
+    top:42px;
+    left: 246px;
+}
+.eytext7{
+    position: absolute;
+    color:#083588;
+    top:72px;
+    left: 246px;
+}
+
+/*战略合作*/
+.indzl{
+    width: 1000px;
+    height: 283px;
+    border:1px solid #738eba;
+    background: url("../images/indzl_bg_.png");
+    margin-left: 175px;
+    position: relative;
+    margin-top: 7px;
+}
+.indzl_ul{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    list-style: none;
+    text-align: center;
+    line-height: 30px;
+    top:50px;
+    left: 22px;
+}
+.indzl_ul li{
+    width: 184px;
+    height: 28px;
+    background: url("../images/indzz_ulbg1.png");
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 13px;
+}
+.indzl_ul li:hover{
+    background: url("../images/indzz_ulbg2.png");
 }
