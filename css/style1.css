@@ -13,6 +13,11 @@ margin-left: 175px;
     height: 330px;
     background-color: #E7F2F9;
 }
+.liebiaoform1{
+    width: 300px;
+    height: 230px;
+    background-color: #E7F2F9;
+}
 .textwenben{
     width: 150px;
     height: 20px;
@@ -191,6 +196,23 @@ margin-left: 0px;
     line-height: 25px;
     background:url("../images/envolve.png") right bottom no-repeat #e7f2f9;
 }
+.contentus1{
+    width: 300px;
+    height: 700px;
+    background-color:#e7f2f9 ;
+    color: black;
+    line-height: 25px;
+    background:url("../images/envolve.png") right 80px no-repeat #e7f2f9;
+}
+.contentus2{
+    height: 500px;
+}
+.contentus3{
+    height: 550px;
+}
+.contentus4{
+    height: 500px;
+}
 .zhrwhz{
     margin-left: 10px;
     /*font-size: 15px;*/
@@ -307,6 +329,7 @@ float: right;
     line-height: 40px;
     color: black;
     list-style-position: inside;
+    font-size: 14px;
 
 }
 .right_ul01 li span{
@@ -453,6 +476,7 @@ margin: 20px 0;
 .liyongliimg{
     display: inline-block;
     float: left;
+    border: 1px solid #8adaf5;
 }
 .liyongliright{
     width: 500px;
@@ -463,5 +487,299 @@ margin: 20px 0;
     line-height: 30px;
 }
 /*end zhuanjiashujuku*/
-/*右边结束*/
+/*科研项目*/
+.keyanxiangmuul01{
+    margin-left: -40px;
 
+}
+.keyanxiangmuul01 li{
+    width: 680px;
+    height: 40px;
+    border-top: 1px solid #8adaf5;
+line-height: 40px;
+    list-style-position: inside;
+    list-style: none;
+    text-align: center;
+
+}
+.keyanxiangmuul01 .li1{
+    text-align: center;
+    background-color: #e7f2f9;
+    color: #000000;
+}
+.li1_s1{
+    color: #d50000;
+}
+.keyanxiangmuul01 .li1_div1{
+    display: inline;
+    float: right;
+    color: #000000;
+    text-align: left;
+}
+.keyanxiangmuul01 .li1_div2{
+    font-size: 12px;
+
+}
+.keyanxiangmuul01 .li1_div3{
+    display: inline;
+
+
+}
+.keyanxiangmuul01 .li2:hover{
+
+    background-color: #c5e8ff;
+
+}
+.keyanxiangmuul01 .li2:hover .li1_div3{
+
+   color: #d50000;
+    text-decoration: underline;
+
+}
+.liend{
+    border-bottom: 1px solid #8adaf5;
+
+}
+/*科研项目结束*/
+/*科研论文*/
+.right_baseinfo{
+    width: 680px;
+    line-height: 58px;
+    font-size: 20px;
+    font-weight: bold;
+    height: 58px;
+    color: #CC0000;
+    border-bottom: 2px solid #CC0000;
+
+}
+
+.goback{
+    float: right;
+    display: inline-block;
+    width: 110px;
+    height: 40px;
+    /*border: 1px solid red;*/
+   margin-top: 10px;
+    margin-right: 20px;
+    border: none;
+}
+.right_baseinfo a:link{
+    text-decoration: none;
+    border: 0px;
+}
+/*科研论文结束*/
+/*科研论文*/
+.right_table01{
+   width: 678px;
+    height: 1000px;
+    border: 1px solid #8ADAF5;
+    margin-top: 10px;
+    border-collapse: collapse;
+    table-layout: fixed;
+    color: #000000;
+    font-size: 16px;
+    font-family: "宋体";
+    letter-spacing: 1px;
+}
+.right_table01 tr td{
+    border-collapse: collapse;
+    border: 1px solid #8ADAF5;
+text-align: right;
+    margin-right: 5px;
+}
+.right_table01 tr{
+    border-collapse: collapse;
+    border: 1px solid #8ADAF5;
+}
+.tbble01_tr01{
+    height: 40px;
+}
+.tbble01_tr02{
+    height: 140px;
+}
+.table01_td01{
+    background-color: #E4F1F8;
+}
+ .right_table01 .table01_td03{
+   font-size: 20px;
+    font-weight: bold;
+    font-family: "黑体";
+    text-align: left;
+}
+.right_table01 .table01_td04{
+
+    text-align: left;
+}
+.right_table01 .table01_td05{
+
+
+    vertical-align: top;
+}
+/*科研论文结束*/
+/*keyanzhuzuo*/
+.keyanxiangmuul01 .kyzzli1{
+    text-align: center;
+    background-color: #e7f2f9;
+    color: #000000;
+    font-weight: bold;
+
+}
+/*end keyanzhuzuo*/
+/*我要留言*/
+.right_banner .chakanliuyan{
+    color: grey;
+    margin-right: 40px;
+}
+.woliuyan{
+    font-size: 20px;
+    color: #3560A4;
+    padding: 20px 0;
+}
+.right_frame01{
+    width: 678px;
+    height: 600px;
+    line-height: 50px;
+    border: 1px solid #A1DBFF;
+    color: #000000;
+}
+.dealand{
+    height: 30px;
+    background-color: #E7F2F9;
+    font-size: 12px;
+    color: #083689;
+    line-height: 30px;
+    text-align:center;
+}
+.woyaoliuyan_form01 span{
+    color: #A1110B;
+    margin-left: 30px;
+}
+.selcetwidth{
+    width: 150px;
+    height: 20px;
+    border: 1px solid #AFAFAF;
+    margin-top: 20px;
+}
+.selcetwidth:focus{
+
+    border: 1px solid #6486BD;
+}
+.textwidth:focus{
+
+    border: 1px solid #6486BD;
+}
+.textareawidth:focus{
+
+    border: 1px solid #6486BD;
+}
+.textwidth{
+    width: 325px;
+    height: 30px;
+    border: 1px solid #AFAFAF;
+
+}
+.textareawidth{
+    width: 435px;
+    height: 110px;
+    border: 1px solid #AFAFAF;
+    margin-top: 10px;
+
+}
+.buttonliuyan{
+    width: 94px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 5px;
+    -webkit-border-radius:5px;
+    -ms-border-radius:5px;
+    -moz-border-radius:5px;
+    -o-border-radius:5px;
+    background-color: #01B72E;
+    margin-left: 100px;
+}
+.buttonliuyan1{
+    background-color: #A2A2A2;
+    margin-left: 20px;
+}
+.neirong{
+    /*border: 1px solid red;*/
+
+}
+.yanzhengma .textwidth{
+    width: 120px;
+}
+.yanzhengma .span01{
+  font-size: 20px;
+    color: #000000;
+}
+.neirong span{
+    vertical-align: top;
+
+}
+.neirong .span1{
+    vertical-align: top;
+    color: #000000;
+    display: inline-block;
+    margin-left: 0px;
+
+}
+
+/*我要留言结束*/
+/*查看留言*/
+.right .right_banner .chakanliuyanred{
+    color: #AA2B2B;
+}
+.woyaoliuyanhui{
+    color: #8C8C8E;
+}
+.xiongxiansheng{
+    width: 680px;
+    height: 130px;
+    padding: 30px 0;
+    font-size: 12px;
+    border-bottom: 3px dashed grey;
+    margin-top: 10px;
+
+}
+.xxsgrey{
+    color: #999999;
+}
+.xxsyellow{
+    font-size: 16px;
+    color: #98BA08;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.xxsdarkgrey{
+    color: #666666;
+    word-break: break-all;
+    margin-top: 15px;
+
+}
+.xxsblue{
+    color: #0089AA;
+    margin-top: 10px;
+}
+/*查看留言结束*/
+/*右边结束*/
+.right_table02{
+    height:400px ;
+}
+.right_table03{
+    height:280px ;
+}
+.right_table04{
+    height:200px ;
+}
+.right_table04 .lioujiaxue{
+    color: #000000;
+   text-align: left;
+    font-weight: 100;
+    font-size: 15px;
+    font-family: "宋体";
+}
+.clear{
+    clear: both;
+}
