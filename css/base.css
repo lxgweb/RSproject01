@@ -139,9 +139,7 @@ width: 100%;
     width: 100%;
     height: 45px;
     background-image: url("../images/menu_bg.png");
-    position: absolute;
-
-    *margin-left: -175px;
+    position: relative;
 }
 .menu_ul{
     position: absolute;
