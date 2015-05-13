@@ -394,6 +394,9 @@ body{
     top: 35px;
     left: 15px;
 }
+.ind_zlul li{
+    _padding: 5px 0;
+}
 /*footer前的框架*/
 .secondfooterbox{
     width: 1000px;
@@ -405,5 +408,76 @@ body{
 }
 .xiqi{
     width: 567px;
-    h
+    height: 284px;
+    position: absolute;
+    border:1px solid #738eba;
+    background: url("../images/indzl_bg_.png");
+}
+
+.xiqi_ul{
+    position: absolute;
+    left: 14px;
+    top: 54px;
+    height: 29px;
+    width: 542px;
+    background:#e2e2e3;
+    border-bottom:1px solid red ;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.xiqi_ul li{
+    float: left;
+    height: 32px;
+    width: 107px;
+    margin-top: -3px;
+    font-family: "宋体";
+    color: #000000;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 35px;
+    position: relative;
+}
+.xiqi_ulli1{
+    margin-left: 16px;
+}
+.xiqi_ulli2{
+    margin-left: 13px;
+}
+.xiqi_ul li:hover{
+    background: url("../images/xiqi_bg.png");
+    color: #ffffff;
+}
+.xiqi_text{
+    position: absolute;
+    left: 14px;
+    top: 84px;
+    height: 190px;
+    width: 540px;
+    border: 1px solid #cacbcd;
+    border-top:none ;
+    border-bottom:none ;
+    background: #ffffff;
+}
+.xiqi_textul{
+list-style:none;
+line-height: 25px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 5px;
+    left: 18px;
+}
+.xiqi_textul li{
+    _padding: 5px 0;
+}
+
+.zc{
+    width: 567px;
+    height: 284px;
+    position: absolute;
+    border:1px solid #738eba;
+    background: url("../images/indzl_bg_.png");
+    top:290px;
 }
