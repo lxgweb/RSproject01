@@ -200,7 +200,53 @@ width: 100%;
      top: 0;
      left: 908px;
  }
+.menu_ulli_sy{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.menu_ulli_xw{
+    position: absolute;
+    top: 0;
+    left: 202px;
+}
+.menu_ulli_zc{
+    position: absolute;
+    top: 0;
+    left: 303px;
+}
+.menu_ulli_zl{
+    position: absolute;
+    top: 0;
+    left: 404px;
+}
+.menu_ulli_xx{
+    position: absolute;
+    top: 0;
+    left: 505px;
+}
+.menu_ulli_zz{
+    position: absolute;
+    top: 0;
+    left: 606px;
+}
+.menu_ulli_xq{
+    position: absolute;
+    top: 0;
+    left: 707px;
+}
+.menu_ulli_ky{
+    position: absolute;
+    top: 0;
+    left: 808px;
+}
 /*中心概况*/
+.menu_ulli_zx{
+    position: absolute;
+    top: 0;
+    left: 101px;
+}
 .secondmenu_ul{
      font-family: "宋体";
      font-size: 15px;
@@ -416,6 +462,8 @@ width: 100%;
 .menu_ulli:hover .secondmenu_zxul{
     display: block;
 }
+
+
 .line1{
     position: absolute;
     left: 275px;
