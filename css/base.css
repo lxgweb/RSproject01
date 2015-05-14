@@ -1,4 +1,14 @@
 /*整个hander*/
+a:link{
+    text-decoration: none;
+    color:#ffffff ;
+}
+a:hover{
+     color:#aa2b2b ;
+ }
+a:visited{
+    color:#ffffff ;
+}
 /*用户登录*/
 .userlogin{
 width: 100%;
