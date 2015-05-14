@@ -1,4 +1,8 @@
 /*整个hander*/
+body{
+    padding: 0;
+    margin: 0;
+}
 a:link{
     text-decoration: none;
     color: #083487;
@@ -157,7 +161,6 @@ width: 100%;
     top: 0;
     left:175px ;
 }
-
 /*菜单menu*/
 .menubg{
     width: 100%;
@@ -577,7 +580,16 @@ width: 100%;
 font-weight: bold;
  }
 .friendtext2{
-    color: #79c1e7
+    color: #79c1e7;
+}
+.douline{
+width: 1000px;
+    height: 138px;
+    position: absolute;
+    top:90px;
+    left: 175px;
+    border-top: 1px solid #79c1e7;
+    border-bottom: 1px solid #79c1e7;
 }
 
 .footer_text{

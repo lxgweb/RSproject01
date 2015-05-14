@@ -57,7 +57,7 @@ body{
     margin-left: 175px;
     position:relative;
     top:9px;
-    z-index: -1;
+    /*z-index: -1;*/
 }
 .imgnew{
     width: 400px;
@@ -91,6 +91,7 @@ body{
     left: 315px;
     top: 245px;
     list-style: none;
+    /*z-index:2;*/
 }
 .imgnewmub li{
     background-color: #000000;
@@ -100,10 +101,11 @@ body{
     float: left;
     text-align: center;
      line-height: 15px;
+    font-size: 11px;
 }
 .imgnewmub li:hover{
     background-color: red;
-    font-size: 11px;
+
 }
 .topnew{
     width: 568px;
@@ -413,6 +415,7 @@ body{
     position: absolute;
     border:1px solid #738eba;
     background: url("../images/indzl_bg_.png");
+    color: #083586;
 }
 
 .xiqi_ul{
@@ -481,6 +484,7 @@ line-height: 25px;
     border:1px solid #738eba;
     background: url("../images/indzl_bg_.png");
     top:290px;
+    color: #083586;
 }
 /*专家*/
 .zj{
@@ -490,6 +494,7 @@ line-height: 25px;
     border:1px solid #738eba;
     background: url("../images/indzl_bg_.png");
     left: 578px;
+    color: #083586;
 }
 .zj_more{
    color: #083588;
@@ -570,6 +575,7 @@ line-height: 25px;
     background: url("../images/indzl_bg_.png");
     left: 578px;
     top:290px;
+    color: #083586;
 }
 .ky_ul{
     position: absolute;
