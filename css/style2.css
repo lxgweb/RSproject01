@@ -127,6 +127,7 @@ position: relative;
 .po_circle{
     position: relative;
     top: -3px;
+    margin-left: -12px;
 }
 .cp_list01 ul{
     margin-top: 1px;
@@ -361,7 +362,15 @@ text-align: right;
  .register_borderall2:hover .zhushi{
      display: block;
  }
- /*register   end*/
+                                                        .regis_yanzhengma {
+                                                            /*margin-top: -5px;*/
+                                                            position: absolute;
+                                                            left: 224px;
+                                                            top: 483px;
+                                                            *top: 483px;
+                                                            *top: 483px;
+                                                        }
+                                                        /*register   end*/
   .banner_expert_detail{
       width: 1000px;
       height:130px;
@@ -386,6 +395,7 @@ text-align: right;
       margin-top: 24px;
       margin-left: 15px;
       float: left;
+      border: 1px solid #8adaf5;
   }
   .edd_table01 tr td{
       border: 1px solid #8adaf5;
@@ -394,6 +404,7 @@ text-align: right;
       width: 88px;
       height: 30px;
       background-color:#e4f1f8;
+      text-align: center;
   }
   .edd_td02{
       width: 198px;
@@ -414,6 +425,7 @@ text-align: right;
       table-layout: fixed;
       margin-left: 10px;
       margin-top: 22px;
+      border: 1px solid #8adaf5;
   }
   .edd_table02 tr td{
       border: 1px solid #8adaf5;
