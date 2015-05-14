@@ -1,13 +1,25 @@
 /*整个hander*/
 a:link{
     text-decoration: none;
-    color:#ffffff ;
+    color: #083487;
 }
 a:hover{
-     color:#aa2b2b ;
+     color:#ffffff ;
  }
 a:visited{
-    color:#ffffff ;
+    color: #083487;
+}
+.zhuce:link{
+    text-decoration: none;
+    color: #ffffff;
+}
+.zhuce:hover{
+    text-decoration: none;
+    color: #ffffff;
+}
+.zhuce:visited{
+    text-decoration: none;
+    color: #ffffff;
 }
 /*用户登录*/
 .userlogin{
