@@ -27,7 +27,7 @@ margin-left: 175px;
 
 }
 .textwenben1{
-    width: 155px;
+    width: 152px;
     height: 25px;
 }
 .form1{
@@ -554,13 +554,28 @@ line-height: 40px;
     float: right;
     color: #000000;
     text-align: left;
+    /*margin-right: 2px;*/
 }
 .keyanxiangmuul01 .li1_div2{
     font-size: 12px;
+    text-align: left;
+    margin-right: 30px;
+    display: inline-block;
+
+
+}
+.keyanxiangmuul01 .li1_div2 span{
+    text-align: left;
+    float: left;
+
 
 }
 .keyanxiangmuul01 .li1_div3{
     display: inline;
+    float: left;
+margin-left: 20px;
+    /*text-align: left;*/
+
 
 
 }
