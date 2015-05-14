@@ -5,7 +5,7 @@ margin-left: 175px;
     /*border: 1px solid red;*/
     color: #083689;
     font-size: 15px;
-    margin-top: 5px;
+    /*margin-top: 5px;*/
 }
 /*左边*/
 .liebiaoform{
@@ -818,4 +818,7 @@ text-align: right;
 }
 .right .table01_td03{
     font-size: 18px;
+}
+.right,.left{
+    margin-top: 5px;
 }
